@@ -1,0 +1,5 @@
+Conclusion for active power and frequency:
+The active power increases its value in order to assure a smooth frequency step response signal and compensate for the perturbation applied at t=150ms.
+
+Conclusion for generator voltage control:
+Both excitation voltage and excitation current signals increase their value in order to assure a smooth generator voltage signal and compensate for the perturbation applied at t=80ms.
